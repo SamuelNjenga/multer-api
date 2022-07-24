@@ -3,3 +3,6 @@
 i. Node Js for powering the server
 ii. Multer Js for managing the image files
 iii. Ejs for the frontend template
+<br>
+<br>
+Contributor __Samuel Njenga__:+1:
